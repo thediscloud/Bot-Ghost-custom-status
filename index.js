@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Best Discord","dsc.gg/darkclouds"];
+const statusMessages = ["dsc.gg/darkclouds"];
 
 
 let currentIndex = 0;
